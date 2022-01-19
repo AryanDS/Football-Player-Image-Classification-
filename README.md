@@ -18,5 +18,4 @@ For Specific detection we would be using HarreCascade to detect the same.
 3. Feature Engineering: In order to extract facial features from the images, we used Wavelet transform and then stacked the wavelet transformed image and cropped images
 
 4. Used GridSearchCV to get the best parameters for our model.
-5. 
 
