@@ -5,9 +5,8 @@ In this Data Science Project we classify my favorite football players using thei
 1.Cristiano Ronaldo
 2.Lionel Messi
 3.Karim benzema
-4.Mbappe
-5.Neymar
-6.Robert lewandowski
+4.Neymar
+
 
 Approach
 1. Data Gathering: Used Fatkun to download images.
